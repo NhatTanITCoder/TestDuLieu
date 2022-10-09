@@ -7,5 +7,6 @@ namespace Test.Models
 {
     public class Class1
     {
+        Console.WriteLine("Xin chao Tan Duy");
     }
 }
